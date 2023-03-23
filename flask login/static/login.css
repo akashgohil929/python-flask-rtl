@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(24, 95, 248);
+}
+
+#login-page{
+    background-color: white;
+    border: 2px solid rgb(37, 132, 255);
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 175px;
+
+}
+
+.input{
+    width: 70%;
+    /* padding: 0px 0px 12px 12px;
+    margin: 0 0 12 12; */
+    box-sizing: border-box;
+    box-shadow: 1px;
+  
+
+}
+
+.input:focus{
+    border: 3px solid rgb(37, 132, 255);
+    border-radius: 4px;
+    background-color: rgba(149, 198, 255, 0.466);
+}
